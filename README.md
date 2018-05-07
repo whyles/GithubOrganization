@@ -7,4 +7,5 @@
 * Square        https://github.com/square
 * Android-cn        https://github.com/android-cn
 * GreenRobot        https://github.com/greenrobot
-* Cocos-2D        https://github.com/cocos2d
+* Cocos-2D        https://github.com/cocos2d
+* 伯乐在线        https://github.com/jobbole
