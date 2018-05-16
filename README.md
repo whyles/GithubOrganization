@@ -1,6 +1,8 @@
 # GithubOrganization
 收藏的Github上的组织。
 
+[腾讯](https://github.com/Tencent)
+
 * Goole        https://github.com/google
 * Google Sample        https://github.com/googlesamples
 * Android       https://github.com/android
