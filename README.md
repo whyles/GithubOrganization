@@ -2,6 +2,10 @@
 收藏的Github上的组织。
 
  [腾讯](https://github.com/Tencent)
+ 
+ [腾讯Alloy Team](https://github.com/AlloyTeam)
+ 
+ [阿里巴巴](https://github.com/alibaba)
 
  [Goole](https://github.com/google)
  
