@@ -11,7 +11,7 @@
  
  [美团点评](https://github.com/Meituan-Dianping)
  
- [小米](https://github.com/MiCode)
+ [小米Android](https://github.com/MiCode)
  
  [哔哩哔哩](https://github.com/Bilibili)
 
