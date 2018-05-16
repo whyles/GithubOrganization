@@ -6,12 +6,22 @@
  [腾讯Alloy Team](https://github.com/AlloyTeam)
  
  [阿里巴巴](https://github.com/alibaba)
+ 
+ [阿里妈妈](https://github.com/thx)
+ 
+ [美团点评](https://github.com/Meituan-Dianping)
+ 
+ [小米](https://github.com/MiCode)
+ 
+ [哔哩哔哩](https://github.com/Bilibili)
 
  [Goole](https://github.com/google)
  
  [Google Sample](https://github.com/googlesamples)
  
  [Android](https://github.com/android)
+ 
+ [FaceBook](https://github.com/facebook)
  
  [Square](https://github.com/square)
  
