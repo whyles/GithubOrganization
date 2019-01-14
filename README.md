@@ -34,3 +34,5 @@
  [Cocos-2D](https://github.com/cocos2d)
  
  [伯乐在线](https://github.com/jobbole)
+ 
+ cesi
